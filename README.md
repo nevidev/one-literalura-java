@@ -6,7 +6,6 @@ Programa [Oracle](https://www.oracle.com/br/) Next Education juntamente com a [A
 
 ## Funções
 - Buscar livros pelo título
-
 - Mostrar os livros registrados
 - Mostrar autores registrados
 - Mostrar autores vivos em um determinado período de tempo em anos
